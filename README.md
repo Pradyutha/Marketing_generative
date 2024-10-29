@@ -1,4 +1,5 @@
-# This repository contains a project that implements sentiment analysis using the DistilBERT model from the Hugging Face Transformers library. The goal is to analyze customer reviews and feedback, extracting sentiment insights that can guide product improvements and enhance customer satisfaction.
+#Review_Generative
+This repository contains a project that implements sentiment analysis using the DistilBERT model from the Hugging Face Transformers library. The goal is to analyze customer reviews and feedback, extracting sentiment insights that can guide product improvements and enhance customer satisfaction.
 
 Features
 Sentiment Analysis: Utilizes the pre-trained DistilBERT model for sentiment classification (positive, negative, or neutral) on textual data.
